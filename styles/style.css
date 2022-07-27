@@ -2,4 +2,12 @@
     width: 80% !important;
     margin: auto !important;
 }
-
+.category-img img {
+    width: 100px;
+}
+.catagory {
+    margin: 30px 0px;
+}
+.footer-img img {
+    width: 500px;
+}
